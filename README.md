@@ -1,2 +1,3 @@
-# learn-react-query
-A repository hosting the code generated while I was learning about react-query
+# Learning react-query
+
+The title says it all
